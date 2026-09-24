@@ -1,7 +1,5 @@
 # Cartesian
 
-Aplicação Java para visualização de funções matemáticas em um plano cartesiano, com interface gráfica em Swing e interpretador de expressões matemáticas.
-
 ## Visão geral
 
 O projeto permite inserir uma expressão matemática, como `x ^ 2`, `sin(x)`, `log(x)` ou combinações mais complexas, e renderizar o gráfico correspondente em uma janela interativa.
